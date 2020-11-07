@@ -3,7 +3,7 @@ by Harrison Clark, 2020.
 
 ![image](https://www.asktraders.com/wp-content/uploads/2020/11/Mogo.png)
 
-# Overview and Origin
+## Overview and Origin
 
 **Mogo Finance Technology**
 
