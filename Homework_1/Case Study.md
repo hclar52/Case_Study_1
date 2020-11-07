@@ -1,6 +1,6 @@
 # A CASE STUDY ON 'MOGO FINANCE TECHNOLOGY', NOV 2020. 
 by Harrison Clark, 2020.
-(https://www.asktraders.com/wp-content/uploads/2020/11/Mogo.png)
+[logo]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.asktraders.com%2Fanalysis%2Fmogo-stock-skyrockets-after-announcing-it-now-supports-apple-google-and-samsung-pay%2F&psig=AOvVaw0X-AIMezOjQaAJAtRDCoc6&ust=1604836107295000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPC998Su8OwCFQAAAAAdAAAAABAD
 # Overview and Origin
 
 **Mogo Finance Technology**
