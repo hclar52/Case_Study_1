@@ -1,5 +1,6 @@
 # A CASE STUDY ON 'MOGO FINANCE TECHNOLOGY', NOV 2020. 
 by Harrison Clark, 2020.
+
 ![image](https://www.asktraders.com/wp-content/uploads/2020/11/Mogo.png)
 
 # Overview and Origin
