@@ -1,4 +1,4 @@
-## A CASE STUDY ON 'MOGO FINANCE TECHNLOGY', NOV 2020. 
+# A CASE STUDY ON 'MOGO FINANCE TECHNLOGY', NOV 2020. 
 by Harrison Clark, 2020.
 
 # Overview and Origin
@@ -14,7 +14,7 @@ The idea for researching 'Mogo Finance Technology' came about after I read a Blo
 In terms of financing 'MOGO's' originally relied on venture capitalist support and debt to get off the ground in 2003, before going public and raising C$50 Million in equity from their IPO in 2015. Today we can see the company is highly leveraged, with gross debt (C$177.5 Million) to tangible equity(C$18.3 Million) sitting at 9.7 ending quarter 1Q20. Lockdown was not a good look for MOGO as their budget deteriorated, and impaired loans bounced up 24% by May 2020.
 
 
-# Business Activities:
+## Business Activities:
 
 The "Mission of the MOGO is to offer to clients affordable secured loans quickly and easily.", David Feller. Often considered the 'uber of finance' MOGO aims to provide millennials with a variety of quick, competitively priced ethical credit solutions, ranging from prepaid credit cards, payments systems and short-term loans as well as the newly developed MOGO payment systems. Founder David Feller describes his inspiration for starting MOJO was to help young Canadians get lower rates of debt, after struggling to pay loans himself while he was in college. In terms of technology, MOGO's goal is to build "the best digital finance service experience in Canada" with their apps MogoMoney, MogoSpend and MogoCard offering access to; contactless payments, credit scores, data protection, savings, loans, mortgages, wealth management and crypto investing, providing an alternative to traditional brick and mortar institutions. 
 
@@ -24,7 +24,7 @@ MOGO set itself apart from its competition by positioning itself not just as a p
 
 All MOGO's main services in 2020 can be found on their app, which you can download on the iOS or Android store. David Feller has made it clear that the user interface for the app needs to be clear and simple and that's reflected in their clean and slick GUI. In term's of their services (of which there are many) MOGO have made strides in technologicaL development, most recently in the form of MOGOspend. Mogospend is a digital spending account, that allows users even more options for contactless and cashless payments on smartphones and other devices. This is achieved through collaboration with services such as apple and google pay which have "tokenised backend infrastructure", whereby card payments create a 'token' or number that replaces your card details when making a transaction. This token is secured, encrypted and when passed to a retail merchant instead of your card details the retail merchant only has the token's information and therefore no access to your MOGOspend account.
 
-# Landscape:
+## Landscape:
 
 MOGO stick's its fingers in many pies and operates in many aspects of the fintech industry. They operate in personal finance, Mortage and Real Estate, Blockchain and Cryptocurrency, Investment Management, payments and Billing and Lending.
 
@@ -32,7 +32,7 @@ As with MOGO, financial services are becoming less centralised with traditional 
 
 As MOGO is a Canadian company operating in the fintech space, with a particular focus on credits and loans. it's most obvious competitors are companies such as credit sesame, credit karma, quizzle and the like. However more nichely, Impak Finance and Charitable Impact provide some crossover in services, as well as marketing themselves as fintech firms where sustainability is at the heart of what they do.
 
-# Results
+## Results
 
 "MOGO offers a finance app that empowers consumers with simple solutions to help them get in control of their financial health and be mindful of the impact they have on society and the planet." The app already has 1 million members with strong growth of 26% year over year Q1 2020 placing it as one of the largest fintech firms by userbase in Canada. Financially however the company was hard hit by COVID-19, even for a company in its growth phase. Potential rises in consumer defaults have led to the 40% of their staff being laid off, a 5-40% reduction in staff salaries and financial relief packages for many at-risk customers. The company reported expected revenue of $9.5-9.7 million in Q3 2020  an improve from previous quarters, higher EBITDA of $3.8-4.2 million as well as accelerated member growth indicating a positive outlook on MOGO's future.
 
@@ -40,7 +40,7 @@ Companies in the same market as MOGo typically have 3 measurements of success: 1
 
 Relative to other Canadian companies in the fintech space MOGO is one of the leaders, as previously stated, boasting over 1 million members and growing. OF course, there are bigger players such as credit sesame that held 15 million users as early as 2016, but MOGO is a major player. In terms of financially, many fintech companies are trying to get their feet on the ground, ensuring they first have a great and sustainable service before seeking to be optimally profitable. and MOGO is no exception, taking on a lot of debt and equity financing to make it's vision a reality.
 
-# Recommendations
+## Recommendations
 
 I think MOGO could incorporate a new future to their MOGOspend system in the form of a rounding system much like what acorns. Where after every purchase the money rounded up to the nearest whole dollar is collected, but instead of investing into a virtual seed to grow your financial wealth like with acorns, the differnece is donated to help grow real trees. It would be an opt-in system where people can donate small amounts of money after every purchase to invest in a the sustainability of the planet. 
 
@@ -48,7 +48,7 @@ MOGO already markets themselves as a leader in sustainability. Part of its missi
 
 In terms of the technology behind this system, an algorithm will have to be written that can calculate the difference between the price of a transaction and the nearest whole number associated with this transaction and in turn, transfer it out of the consumers account and into an ethical investment account set up by MOGO (ie. cost $40.71, $40.71 to the vendor from consumer's account, 29c from consumer to MOGO's tree investment account to be given to a relevant charity). This would allow for the consumer to indirectly donate to a sustainable cause every time then make a purchase, on the condition that they opt-in via a button incorporated into the GUI of their MOGOspend app. This button would toggle whether the algorithm is enabled to take money out of their account for this program or not.
 
-# Links
+## Links
 
 https://www.statista.com/outlook/295/108/fintech/canada
 http://www.digitalfinanceinstitute.org/wp-content/uploads/2019/07/Canada_s_Top_50_FinTech_Companies.pdf
