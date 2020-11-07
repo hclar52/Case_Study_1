@@ -1,4 +1,5 @@
 ## A CASE STUDY ON 'MOGO FINANCE TECHNLOGY', NOV 2020. 
+by Harrison Clark, 2020.
 
 # Overview and Origin
 
@@ -41,11 +42,11 @@ Relative to other Canadian companies in the fintech space MOGO is one of the lea
 
 # Recommendations
 
-I think MOGO could incorporate a new future to their MOGOspend system in the form of a rounding system much like what acorns. Where after every purchase the money rounded up to the nearest whole dollar is collected, but instead of investing into a virtual seed to grow your financial wealth like with acorns, is donated to help grow real trees. It would be an opt-in system where people can donate small amounts of money after every purchase to invest in a sustainable planet. 
+I think MOGO could incorporate a new future to their MOGOspend system in the form of a rounding system much like what acorns. Where after every purchase the money rounded up to the nearest whole dollar is collected, but instead of investing into a virtual seed to grow your financial wealth like with acorns, the differnece is donated to help grow real trees. It would be an opt-in system where people can donate small amounts of money after every purchase to invest in a the sustainability of the planet. 
 
 MOGO already markets themselves as a leader in sustainability. Part of its mission statement is to make a positive impact on the globe and this would be a great way for everyday consumers, who might not think too much about how they can make a positive environmental impact easily contribute. This alongside the zero CO2 aspect of MOGOspend would set the company apart as the leader in ethical payments systems in Canada and potentially reach a larger market, at the cost of the consumer and not the institution.
 
-In terms of the technology behind this system, an algorithm will have to be written that can calculate the difference between the price of a transaction and the nearest whole number associated with this number and transfer it out of the consumers account and into an ethical investment account (ie. cost $40.71, $40.71 to the vendor from consumer's account, 29c from consumer to MOGO's tree investment account to be given to a relevant charity). This would allow for the consumer to indirectly donate to a sustainable cause every time then make a purchase, on the condition that they opt-in via a button incorporated into the GUI of their MOGOspend app. This button would toggle whether the algorithm is enabled to take money out of their account for this program or not.
+In terms of the technology behind this system, an algorithm will have to be written that can calculate the difference between the price of a transaction and the nearest whole number associated with this transaction and in turn, transfer it out of the consumers account and into an ethical investment account set up by MOGO (ie. cost $40.71, $40.71 to the vendor from consumer's account, 29c from consumer to MOGO's tree investment account to be given to a relevant charity). This would allow for the consumer to indirectly donate to a sustainable cause every time then make a purchase, on the condition that they opt-in via a button incorporated into the GUI of their MOGOspend app. This button would toggle whether the algorithm is enabled to take money out of their account for this program or not.
 
 # Links
 
