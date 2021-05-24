@@ -1,0 +1,9 @@
+BLOCKCHAIN FOUNDRY INC.
+
+Blockchain Foundary inc is a blockchain development company based in Burnaby, Canada that develops and commercializes blockchain-based business solutions and provides consulting services to corporate clients seeking to incorporate blockchain technology into their businesses. The mission of the company is to “make blockchain technology work for you”, provide custom blockchain consulting, development and integration solutions.
+
+Blockchain Foundry aims to serve a wide variety of clients, ranging from small businesses and enterprises all the way to governments. Starting with quick consultations with experts, interested stakeholders are guided through the evaluation process, to analyse the current and desired end-states of how block chain could benefit the company. From there, they can walk you through next steps as how to move forward or even help you integrate block chain technology as a service. The company claims to specialise in Blockchain Application Integration and Implementation, UI/UX Design, KYC/AML, Code Review, White Paper Review, Token Asset Consulting.
+
+Currently blockchain foundary are working with some big players; partnering with organisations such as Microsoft azure, binance, DIF, whiteblock, bitbuy and are the founding members of Microsoft’s decentralized identity foundation.
+
+In terms of use-cases blockchain foundry have helped companies incorporate blockchain technology for licences and permits, supply chain, tokened assets, identities and voting. A notable project they are currently working on is in the General Data Protection Regulation (“GDPR”) compliance space, regulation in EU law concerning data protection and privacy aswell as a “Proprietary Blockchain Foundry Wallet”. The wallet interacts with the syscoin (of which they are the lead devs on) and Ethereum ecospaces to enable future products and supports the management of syscoin-based NFTs. It will be monetized via fees on NFT creation.
